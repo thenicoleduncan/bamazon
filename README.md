@@ -1,0 +1,2 @@
+# bamazon
+Imitiation of Amazon
